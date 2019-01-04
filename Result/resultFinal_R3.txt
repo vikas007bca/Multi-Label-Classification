@@ -1,0 +1,48 @@
+
+
+
+datasets/medicalPartition
+
+
+						HammingLoss		 ExampleBasedAccuracy	 ExampleBasedPrecision	 ExampleBasedRecall	 ExampleBasedFmeasure		SubsetAccuracy			  LabelBasedAccuracy		 LabelBasedPrecision		 LabelBasedRecall	 LabelBasedFmeasure		    MicroF1Measure
+
+
+
+
+datasets/medicalPartition
+
+
+						HammingLoss		 ExampleBasedAccuracy	 ExampleBasedPrecision	 ExampleBasedRecall	 ExampleBasedFmeasure		SubsetAccuracy			  LabelBasedAccuracy		 LabelBasedPrecision		 LabelBasedRecall	 LabelBasedFmeasure		    MicroF1Measure
+
+
+
+
+datasets/medicalPartition
+
+
+						HammingLoss		 ExampleBasedAccuracy	 ExampleBasedPrecision	 ExampleBasedRecall	 ExampleBasedFmeasure		SubsetAccuracy			  LabelBasedAccuracy		 LabelBasedPrecision		 LabelBasedRecall	 LabelBasedFmeasure		    MicroF1Measure
+
+
+
+
+datasets/medicalPartition
+
+
+						HammingLoss		 ExampleBasedAccuracy	 ExampleBasedPrecision	 ExampleBasedRecall	 ExampleBasedFmeasure		SubsetAccuracy			  LabelBasedAccuracy		 LabelBasedPrecision		 LabelBasedRecall	 LabelBasedFmeasure		    MicroF1Measure
+
+
+
+
+datasets/medicalPartition
+
+
+						HammingLoss		 ExampleBasedAccuracy	 ExampleBasedPrecision	 ExampleBasedRecall	 ExampleBasedFmeasure		SubsetAccuracy			  LabelBasedAccuracy		 LabelBasedPrecision		 LabelBasedRecall	 LabelBasedFmeasure		    MicroF1Measure
+
+
+
+
+datasets/medicalPartition
+
+
+						HammingLoss		 ExampleBasedAccuracy	 ExampleBasedPrecision	 ExampleBasedRecall	 ExampleBasedFmeasure		SubsetAccuracy			  LabelBasedAccuracy		 LabelBasedPrecision		 LabelBasedRecall	 LabelBasedFmeasure		    MicroF1Measure
+
